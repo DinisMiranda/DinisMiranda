@@ -71,7 +71,7 @@ const dinis = {
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=DinisMiranda&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=DinisMiranda&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak" />
 
 </div>
 
