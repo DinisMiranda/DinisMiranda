@@ -1,8 +1,9 @@
 <!-- Dinis Miranda — GitHub Profile README -->
-<!-- Wave animation header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:4f98a3&height=200&section=header&text=Dinis%20Miranda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20Creator&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F98A3&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;UI+%2F+UX+Designer;Audio+%26+Game+Dev+Enthusiast;Based+in+Porto%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" /></a>
 
 </div>
 
@@ -59,8 +60,12 @@ const dinis = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DinisMiranda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisMiranda&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinisMiranda&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinisMiranda&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinisMiranda&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DinisMiranda&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinisMiranda&theme=tokyonight&utcOffset=1" />
 
 </div>
 
