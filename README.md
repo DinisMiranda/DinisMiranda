@@ -9,10 +9,10 @@
 
 ---
 
-## 👋 Olá, sou o Dinis
+## 👋 Hey, I'm Dinis
 
-Sou um developer focado em **web development** e **design**, com experiência em frontend e backend.  
-Apaixonado por criar experiências digitais limpas, funcionais e bem desenhadas.
+A developer focused on **web development** and **design**, with experience in both frontend and backend.  
+Passionate about building clean, functional, and well-crafted digital experiences.
 
 ```javascript
 const dinis = {
@@ -71,7 +71,7 @@ const dinis = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DinisMiranda&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=DinisMiranda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -87,7 +87,7 @@ const dinis = {
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 <div align="center">
 
